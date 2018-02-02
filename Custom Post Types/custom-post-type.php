@@ -49,6 +49,7 @@ function add_ctp() {
 		'exclude_from_search'   => false,
 		'publicly_queryable'    => true,
 		'capability_type'       => 'page',
+		'supports'      		=> array('title', 'editor', 'thumbnail', 'author'),
 		'menu_icon'				=> 'dashicons-format-status'
     );
     register_post_type('my_cpt', $args);
