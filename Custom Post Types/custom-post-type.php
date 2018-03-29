@@ -50,8 +50,7 @@ function add_ctp() {
 		'publicly_queryable'    => true,
 		'capability_type'       => 'page',
 		'supports'      		=> array('title', 'editor', 'thumbnail', 'author'),
-		'menu_icon'				=> 'dashicons-format-status',
-		'menu_position'			=> 20
+		'menu_icon'				=> 'dashicons-format-status'
     );
     register_post_type('my_cpt', $args);
 }
