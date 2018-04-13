@@ -56,3 +56,7 @@ Usefull Wordpress snippets for theme development
 ## WPDB
 
 - [Post Meta Query](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WPDB/post-meta-query.php)
+
+## Woocommerce
+
+- [Add product taxonomy](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/add_product_taxonomy.php)
