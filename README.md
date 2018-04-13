@@ -42,6 +42,7 @@ Usefull Wordpress snippets for theme development
 ## Shortcodes
 
 - [Basic Shortcode](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Shortcodes/basic-shortcode.php)
+- [Shortcode with Attributes](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Shortcodes/shortcode-with-atts.php)
 - [Shortcode With Content](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Shortcodes/shortcode-with-content.php)
 
 ## Social 
