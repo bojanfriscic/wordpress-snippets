@@ -61,3 +61,4 @@ Usefull Wordpress snippets for theme development
 ## Woocommerce
 
 - [Add product taxonomy](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/add_product_taxonomy.php)
+- [Get product featured image](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-product-featured-image.php)
