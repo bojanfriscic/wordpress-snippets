@@ -15,6 +15,10 @@ Usefull Wordpress snippets for theme development
 
 - [Allow SVG Upload](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Files/allow-svg-upload.php)
 
+## Options Pages
+
+- [Add Options Page](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Options%20Pages/add-options-page.php)
+
 ## Plugins
 
 - [Check if WP is installed](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Plugins/check-if-wp-installed.php)
