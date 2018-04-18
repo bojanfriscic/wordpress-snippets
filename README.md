@@ -66,5 +66,6 @@ Usefull Wordpress snippets for theme development
 
 - [Add product taxonomy](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/add_product_taxonomy.php)
 - [Change number of products per row](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/change-number-of-products-per-row.php)
+- [Enable lightbox](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/enable-lightbox.php)
 - [Get product featured image](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-product-featured-image.php)
 - [Get product prices](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-prices.php)
