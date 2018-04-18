@@ -69,3 +69,4 @@ Usefull Wordpress snippets for theme development
 - [Enable lightbox](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/enable-lightbox.php)
 - [Get product featured image](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-product-featured-image.php)
 - [Get product prices](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-prices.php)
+- [Related products count](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/related-products-count.php)
