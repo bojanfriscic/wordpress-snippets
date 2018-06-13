@@ -15,6 +15,10 @@ Usefull Wordpress snippets for theme development
 
 - [Allow SVG Upload](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Files/allow-svg-upload.php)
 
+## Navigation
+
+- [All Element in Nav Item](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Navigation/add-element-in-nav-item.php)
+
 ## Options Pages
 
 - [Add Options Page](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Options%20Pages/add-options-page.php)
