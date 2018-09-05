@@ -57,6 +57,9 @@ Usefull Wordpress snippets for theme development
 
 - [Sharing Button](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Social/sharing-button.php)
 
+## Templates
+- [Check if template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Templates/check-if-template.php)
+
 ## Terms
 - [Insert term](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Terms/insert-term.php)
 
