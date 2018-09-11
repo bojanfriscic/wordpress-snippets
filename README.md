@@ -31,6 +31,7 @@ Usefull Wordpress snippets for theme development
 ## Posts
 
 - [Change Excerpt Length](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/change-excerpt-length.php)
+- [Change Excerpt Length Depending on Post Type](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/excerpt-length-by-post-type.php)
 - [Change Excerpt More](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/change-excerpt-more.php)
 
 ## Security
