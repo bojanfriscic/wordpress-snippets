@@ -10,11 +10,11 @@ add_action('my_cron_hook', function() {
   // Triggered actions go here
 });
 
-add_filter('cron_schedules', function($schedules)) {
+add_filter('cron_schedules', function($schedules) {
   $schedules['five-minutes'] = array(
     'interval'  =>  300,
     'display'   =>  'Every Five Minutes'
   );
 
   return $schedules;
-}
+});
