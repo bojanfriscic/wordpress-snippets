@@ -8,6 +8,7 @@ Usefull Wordpress snippets for theme development
 
 ## Cron
 - [Simple Cron Job](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Cron/add_simple_cron_job.php)
+- [Add Custom Scheduling](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Cron/add_custom_schedulling.php)
 
 ## Custom Post Types
 
