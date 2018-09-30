@@ -6,6 +6,9 @@ Usefull Wordpress snippets for theme development
 - [Add Options Page](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/add-options-page.php)
 - [Gallery](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/gallery.php)
 
+## Cron
+- [Simple Cron Job](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Cron/add_simple_cron_job.php)
+
 ## Custom Post Types
 
 - [Custom Post Type](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Custom%20Post%20Types/custom-post-type.php)
