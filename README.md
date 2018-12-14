@@ -94,3 +94,4 @@ Usefull Wordpress snippets for theme development
 - [Get product prices](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-prices.php)
 - [Related products count](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/related-products-count.php)
 - [Set default ordering](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/set-default-ordering.php)
+- [Unset ordering types](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/unset-ordering-types.php)
