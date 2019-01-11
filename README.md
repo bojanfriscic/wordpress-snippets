@@ -82,6 +82,7 @@ Usefull Wordpress snippets for theme development
 
 ## WPDB
 
+- [Create Custom Tables](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WPDB/create-custom-tables.php)
 - [Post Meta Query](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WPDB/post-meta-query.php)
 
 ## Woocommerce
