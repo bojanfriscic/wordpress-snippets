@@ -43,6 +43,7 @@ Usefull Wordpress snippets for theme development
 
 - [Change Login Errors](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/change-login-errors.php)
 - [Disable Comments](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/disable-comments.php)
+- [Disable Dashboard Access For Non-Admins](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/disable-dashboard-access.php)
 - [Disable RSS](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/disable-rss.php)
 - [Disable REST API](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/disable-wp-rest-api.php)
 - [Remove Version Number](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/remove-version-number.php)
