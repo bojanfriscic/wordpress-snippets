@@ -7,6 +7,7 @@ Usefull Wordpress snippets for theme development
 - [Gallery](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/gallery.php)
 
 ## Assets
+- [Register Script](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-script.php)
 - [Register Style](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-style.php)
 
 ## Cron
