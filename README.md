@@ -50,6 +50,7 @@ Usefull Wordpress snippets for theme development
 
 ## Setup
 
+- [Multiple Nav Menus](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Setup/multiple-nav-menus.php)
 - [Nav Menus](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Setup/nav-menus.php)
 - [Post Thumbnails](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Setup/post-thumbnails.php)
 - [Widgets](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Setup/widgets.php)
