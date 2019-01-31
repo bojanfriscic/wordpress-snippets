@@ -86,6 +86,7 @@ Usefull Wordpress snippets for theme development
 - [Remove Welcome Panel](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-welcome-panel.php)
 
 ## WP Admin
+- [Custom admin footer](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Wp-admin/custom-admin-footer.php)
 - [Remove editor from template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Wp-admin/remove-editor-from-templates.php)
 
 ## WPDB
