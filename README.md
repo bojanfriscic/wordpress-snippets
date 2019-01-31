@@ -25,6 +25,7 @@ Usefull Wordpress snippets for theme development
 - [Allow SVG Upload](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Files/allow-svg-upload.php)
 
 ## Images
+- [Enable post thumbnails](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Images/enable-post-thumbnails.php)
 - [Thumbnail outside of Loop](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Images/thumbnail-outside-of-loop.php)
 
 ## Navigation
