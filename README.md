@@ -31,6 +31,7 @@ Usefull Wordpress snippets for theme development
 ## Navigation
 
 - [All Element in Nav Item](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Navigation/add-element-in-nav-item.php)
+- [Display child pages](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Navigation/display-child-pages.php)
 
 ## Options Pages
 
