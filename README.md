@@ -24,6 +24,9 @@ Usefull Wordpress snippets for theme development
 
 - [Allow SVG Upload](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Files/allow-svg-upload.php)
 
+## Images
+- [Thumbnail outside of Loop](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Images/thumbnail-outside-of-loop.php)
+
 ## Navigation
 
 - [All Element in Nav Item](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Navigation/add-element-in-nav-item.php)
