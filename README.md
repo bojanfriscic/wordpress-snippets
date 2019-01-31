@@ -101,6 +101,7 @@ Usefull Wordpress snippets for theme development
 - [Add product taxonomy](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/add_product_taxonomy.php)
 - [Catalog mode with prices](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/catalog-mode-with-prices.php)
 - [Change number of products per row](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/change-number-of-products-per-row.php)
+- [Change related product count](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/change-related-product-count.php)
 - [Enable lightbox](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/enable-lightbox.php)
 - [Get category image](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-category-image.php)
 - [Get product categories](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-product-cats.php)
