@@ -99,6 +99,7 @@ Usefull Wordpress snippets for theme development
 ## Woocommerce
 
 - [Add custom ordering](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/add-custom-ordering.php)
+- [Add product tabs](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/add-product-tabs.php)
 - [Add product taxonomy](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/add_product_taxonomy.php)
 - [Catalog mode with prices](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/catalog-mode-with-prices.php)
 - [Change number of products per row](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/change-number-of-products-per-row.php)
