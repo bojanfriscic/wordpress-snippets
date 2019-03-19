@@ -111,6 +111,7 @@ Usefull Wordpress snippets for theme development
 - [Get product prices](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-prices.php)
 - [Related products count](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/related-products-count.php)
 - [Remove first & last class from products](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/remove-first-and-last-class.php)
+- [Remove product tabs](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/remove-product-tabs.php)
 - [Remove related products](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/remove-related-products.php)
 - [Search only products](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/search-only-products.php)
 - [Set default ordering](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/set-default-ordering.php)
