@@ -49,6 +49,9 @@ Usefull Wordpress snippets for theme development
 - [Change Excerpt Length Depending on Post Type](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/excerpt-length-by-post-type.php)
 - [Change Excerpt More](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/change-excerpt-more.php)
 
+## RSS
+- [Custom RSS Footer](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/custom-rss-footer.php)
+
 ## Security
 
 - [Change Login Errors](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/change-login-errors.php)
