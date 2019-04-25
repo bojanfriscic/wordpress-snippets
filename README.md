@@ -52,6 +52,7 @@ Usefull Wordpress snippets for theme development
 ## RSS
 - [Custom RSS Footer](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/custom-rss-footer.php)
 - [Delay Posts](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/delay-posts.php)
+- [Exclude Categories](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/exclude-categories.php)
 - [Featured Images in RSS](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/featured-images-in-rss.php)
 
 ## Security
