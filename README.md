@@ -84,7 +84,7 @@ Usefull Wordpress snippets for theme development
 
 ## Tweaks
 
-- [Change Text](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/change-text.php);
+- [Change Text](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/change-text.php)
 - [Custom Admin Footer](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/custom-admin-footer.php)
 - [Custom Dashboard Logo](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/custom-dashboard-logo.php)
 - [Remove Admin Bar](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-admin-bar.php)
