@@ -89,7 +89,8 @@ Usefull Wordpress snippets for theme development
 
 ## WP Admin
 - [Custom admin footer](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Wp-admin/custom-admin-footer.php)
-- [Remove editor from template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Wp-admin/remove-editor-from-templates.php)
+- [Custom dashboard logo](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Wp-admin/custom-dashboard-logo.php)
+- [Remove editor from template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Wp-admin/remove-editor-from-templates.php)+
 
 ## WPDB
 
