@@ -86,14 +86,10 @@ Usefull Wordpress snippets for theme development
 
 - [Change Text](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/change-text.php);
 - [Custom Admin Footer](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/custom-admin-footer.php)
+- [Custom Dashboard Logo](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/custom-dashboard-logo.php)
 - [Remove Admin Bar](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-admin-bar.php)
+- [Remove Editor from Template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-editor-from-templates.php)
 - [Remove Welcome Panel](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-welcome-panel.php)
-
-## WP Admin
-- [Custom Admin Footer](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Wp-admin/custom-admin-footer.php)
-- [Custom Dashboard Logo](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Wp-admin/custom-dashboard-logo.php)
-- [Remove Editor from Template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Wp-admin/remove-editor-from-templates.php)
-- [Remove Welcome Panel](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Wp-admin/remove-welcome-panel.php)
 
 ## WPDB
 
