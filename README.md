@@ -1,61 +1,68 @@
-# WORDPRESS SNIPPETS
-Usefull Wordpress snippets for theme development
+# Wordpress Snippets
+Snippets, links and resources for Wordpress & WooCommerce development. 
 
-## ACF
+## Links
+- [Codex](http://codex.wordpress.org/)
+- [Dashicons](https://developer.wordpress.org/resource/dashicons/)
+- [Plugins](https://wordpress.org/plugins/)
+
+## Snippets
+
+### ACF
 
 - [Add Options Page](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/add-options-page.php)
 - [Gallery](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/gallery.php)
 
-## Assets
+### Assets
 - [Register Image Sizes](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-image-sizes.php)
 - [Register Script](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-script.php)
 - [Register Style](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-style.php)
 
-## Cron
+### Cron
 - [Simple Cron Job](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Cron/add_simple_cron_job.php)
 - [Add Custom Scheduling](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Cron/add_custom_schedulling.php)
 - [Unschedule Cron Job](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Cron/unschedule_cron_job.php)
 
-## Custom Post Types
+### Custom Post Types
 
 - [Custom Post Type](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Custom%20Post%20Types/custom-post-type.php)
 - [Custom Taxonomy](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Custom%20Post%20Types/custom-taxonomy.php)
 
-## Files
+### Files
 
 - [Allow SVG Upload](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Files/allow-svg-upload.php)
 
-## Images
+### Images
 - [Enable post thumbnails](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Images/enable-post-thumbnails.php)
 - [Thumbnail outside of Loop](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Images/thumbnail-outside-of-loop.php)
 
-## Navigation
+### Navigation
 
 - [All Element in Nav Item](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Navigation/add-element-in-nav-item.php)
 - [Display child pages](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Navigation/display-child-pages.php)
 
-## Options Pages
+### Options Pages
 
 - [Add Options Page](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Options%20Pages/add-options-page.php)
 
-## Plugins
+### Plugins
 
 - [Check if WP is installed](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Plugins/check-if-wp-installed.php)
 - [Check on activation](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Plugins/check-on-activation.php)
 
-## Posts
+### Posts
 
 - [Change Excerpt Length](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/change-excerpt-length.php)
 - [Change Excerpt Length Depending on Post Type](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/excerpt-length-by-post-type.php)
 - [Change Excerpt More](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/change-excerpt-more.php)
 
-## RSS
+### RSS
 - [Custom RSS Footer](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/custom-rss-footer.php)
 - [Delay Posts](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/delay-posts.php)
 - [Exclude Categories](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/exclude-categories.php)
 - [Featured Images in RSS](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/featured-images-in-rss.php)
 
-## Security
+### Security
 
 - [Change Login Errors](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/change-login-errors.php)
 - [Disable Comments](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/disable-comments.php)
@@ -65,30 +72,30 @@ Usefull Wordpress snippets for theme development
 - [Disable REST API](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/disable-wp-rest-api.php)
 - [Remove Version Number](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/remove-version-number.php)
 
-## Setup
+### Setup
 
 - [Multiple Nav Menus](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Setup/multiple-nav-menus.php)
 - [Nav Menus](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Setup/nav-menus.php)
 - [Post Thumbnails](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Setup/post-thumbnails.php)
 - [Widgets](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Setup/widgets.php)
 
-## Shortcodes
+### Shortcodes
 
 - [Basic Shortcode](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Shortcodes/basic-shortcode.php)
 - [Shortcode with Attributes](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Shortcodes/shortcode-with-atts.php)
 - [Shortcode with Content](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Shortcodes/shortcode-with-content.php)
 
-## Social 
+### Social 
 
 - [Sharing Button](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Social/sharing-button.php)
 
-## Templates
+### Templates
 - [Check if template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Templates/check-if-template.php)
 
-## Terms
+### Terms
 - [Insert term](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Terms/insert-term.php)
 
-## Tweaks
+### Tweaks
 
 - [Change Text](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/change-text.php)
 - [Custom Admin Footer](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/custom-admin-footer.php)
@@ -97,12 +104,12 @@ Usefull Wordpress snippets for theme development
 - [Remove Editor from Template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-editor-from-templates.php)
 - [Remove Welcome Panel](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-welcome-panel.php)
 
-## WPDB
+### WPDB
 
 - [Create Custom Tables](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WPDB/create-custom-tables.php)
 - [Post Meta Query](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WPDB/post-meta-query.php)
 
-## Woocommerce
+### Woocommerce
 
 - [Add custom ordering](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/add-custom-ordering.php)
 - [Add product tabs](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/add-product-tabs.php)
