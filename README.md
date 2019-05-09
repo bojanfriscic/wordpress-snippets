@@ -13,6 +13,10 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 - [Add Options Page](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/add-options-page.php)
 - [Gallery](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/gallery.php)
 
+### AJAX
+- [functions.php](https://github.com/bojanfriscic/wordpress-snippets/blob/master/AJAX/functions.php)
+- [weather.js](https://github.com/bojanfriscic/wordpress-snippets/blob/master/AJAX/weather.js)
+
 ### Assets
 - [Register Image Sizes](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-image-sizes.php)
 - [Register Script](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-script.php)
