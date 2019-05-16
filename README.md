@@ -110,6 +110,7 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 
 ### WP Query
 - [Loop through Taxonomies](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WP%20Query/loop-through-taxonomies.php)
+- [Order by Meta Value](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WP%20Query/order-by-meta-value.php)
 
 ### WPDB
 
