@@ -108,6 +108,9 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 - [Remove Editor from Template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-editor-from-templates.php)
 - [Remove Welcome Panel](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-welcome-panel.php)
 
+### WP Query
+- [Loop through Taxonomies](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WP%20Query/loop-through-taxonomies.php)
+
 ### WPDB
 
 - [Create Custom Tables](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WPDB/create-custom-tables.php)
