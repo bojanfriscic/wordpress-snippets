@@ -1,12 +1,13 @@
-# Wordpress Snippets
+# WORDPRESS SNIPPETS
 Snippets, links and resources for Wordpress & WooCommerce development. 
 
-## Links
+## LINKS
+
 - [Codex](http://codex.wordpress.org/)
 - [Dashicons](https://developer.wordpress.org/resource/dashicons/)
 - [Plugins](https://wordpress.org/plugins/)
 
-## Snippets
+## SNIPPETS
 
 ### ACF
 
@@ -137,3 +138,15 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 - [Search only products](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/search-only-products.php)
 - [Set default ordering](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/set-default-ordering.php)
 - [Unset ordering types](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/unset-ordering-types.php)
+
+## TRUSTED PLUGINS
+
+- [Advanced Custom Fields PRO](https://www.advancedcustomfields.com/pro/)
+- [Classic Editor](https://wordpress.org/plugins/classic-editor/)
+- [Imsanity](https://wordpress.org/plugins/imsanity/)
+- [Under Construction](https://wordpress.org/plugins/under-construction-page/)
+- [WP Featherlight](https://wordpress.org/support/plugin/wp-featherlight/)
+- [WP Smart Preloader](https://wordpress.org/plugins/wp-smart-preloader/)
+- [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
+- [WPForms Lite](https://wordpress.org/plugins/wpforms-lite/)
+- [YOAST SEO](https://wordpress.org/plugins/wordpress-seo/)
