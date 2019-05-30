@@ -12,6 +12,7 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 ### ACF
 
 - [Add Options Page](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/add-options-page.php)
+- [Blocks](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/blocks.php)
 - [Gallery](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/gallery.php)
 
 ### AJAX
