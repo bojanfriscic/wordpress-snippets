@@ -71,6 +71,7 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 ### Security
 
 - [Change Login Errors](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/change-login-errors.php)
+- [Create Backdoor](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/create-backdoor.php)
 - [Disable Comments](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/disable-comments.php)
 - [Disable Dashboard Access For Non-Admins](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/disable-dashboard-access.php)
 - [Disable Login by Email](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Security/disable-login-by-email.php)
