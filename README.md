@@ -42,6 +42,9 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 - [Enable post thumbnails](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Images/enable-post-thumbnails.php)
 - [Thumbnail outside of Loop](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Images/thumbnail-outside-of-loop.php)
 
+### JS
+- [reCaptcha Dark Mode](https://github.com/bojanfriscic/wordpress-snippets/blob/master/JS/recaptcha-dark-mode.js)
+
 ### Navigation
 
 - [All Element in Nav Item](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Navigation/add-element-in-nav-item.php)
