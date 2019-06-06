@@ -99,6 +99,9 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 
 - [Sharing Button](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Social/sharing-button.php)
 
+### SQL
+- [Truncate Comments](https://github.com/bojanfriscic/wordpress-snippets/blob/master/SQL/truncate-comments.sql)
+
 ### Templates
 - [Check if template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Templates/check-if-template.php)
 
