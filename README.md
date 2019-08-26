@@ -40,7 +40,8 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 
 ### Files
 
-- [Allow SVG Upload](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Files/allow-svg-upload.php)
+- [Allow .doc Upload](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Files/allow-doc-upload.php)
+- [Allow .svg Upload](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Files/allow-svg-upload.php)
 
 ### Images
 - [Enable post thumbnails](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Images/enable-post-thumbnails.php)
