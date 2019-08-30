@@ -3,6 +3,7 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 
 ## LINKS
 
+- [A List of all Default Gutenberg Blocks in WordPress 5.0](https://wpdevelopment.courses/a-list-of-all-default-gutenberg-blocks-in-wordpress-5-0/)
 - [Codex](http://codex.wordpress.org/)
 - [Dashicons](https://developer.wordpress.org/resource/dashicons/)
 - [Plugins](https://wordpress.org/plugins/)
