@@ -14,6 +14,7 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 
 - [Add Options Page](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/add-options-page.php)
 - [Blocks](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/blocks.php)
+- [Format Date](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/format-date.php)
 - [Gallery](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/gallery.php)
 - [Post Object](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/post_object.php)
 
