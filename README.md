@@ -1,14 +1,53 @@
-# WORDPRESS SNIPPETS
-Snippets, links and resources for Wordpress & WooCommerce development. 
+# WORDPRESS RESOURCES
 
-## LINKS
+Extensive list of resources for Wordpress and WooCommerce development collected during years of everyday work with those technologies. The list started as a collection of code snippets that I've been frequently using and has evolved into a small repository of various resources that will help you in your daily work with Wordpress and WooCommerce.
+The list is structured into three sections - links on useful resources and articles, code snippets for a wide range of scenarios you may encounter in your work and a list of trusted, non-commercial plugins that I recommend using (no page builders or similar bad plugins are listed).
+
+## Table of Contents
+
+- [Links](https://github.com/bojanfriscic/wordpress-snippets#links)
+- [Snippets](https://github.com/bojanfriscic/wordpress-snippets#snippets)
+
+  - [ACF](https://github.com/bojanfriscic/wordpress-snippets#acf)
+  - [AJAX](https://github.com/bojanfriscic/wordpress-snippets#ajax)
+  - [Assets](https://github.com/bojanfriscic/wordpress-snippets#assets)
+  - [Blocks](https://github.com/bojanfriscic/wordpress-snippets#blocks)
+  - [Cron](https://github.com/bojanfriscic/wordpress-snippets#cron)
+  - [Custom Post Types](https://github.com/bojanfriscic/wordpress-snippets#custom-post-types)
+  - [Files](https://github.com/bojanfriscic/wordpress-snippets#files)
+  - [Images](https://github.com/bojanfriscic/wordpress-snippets#images)
+  - [JS](https://github.com/bojanfriscic/wordpress-snippets#js)
+  - [Navigation](https://github.com/bojanfriscic/wordpress-snippets#navigation)
+  - [Options Pages](https://github.com/bojanfriscic/wordpress-snippets#options-pages)
+  - [Plugins](https://github.com/bojanfriscic/wordpress-snippets#plugins)
+  - [Posts](https://github.com/bojanfriscic/wordpress-snippets#posts)
+  - [RSS](https://github.com/bojanfriscic/wordpress-snippets#rss)
+  - [Security](https://github.com/bojanfriscic/wordpress-snippets#security)
+  - [Setup](https://github.com/bojanfriscic/wordpress-snippets#setup)
+  - [Shortcodes](https://github.com/bojanfriscic/wordpress-snippets#shortcodes)
+  - [Soacial](https://github.com/bojanfriscic/wordpress-snippets#social)
+  - [SQL](https://github.com/bojanfriscic/wordpress-snippets#sql)
+  - [Templates](https://github.com/bojanfriscic/wordpress-snippets#templates)
+  - [Terms](https://github.com/bojanfriscic/wordpress-snippets#terms)
+  - [Tweaks](https://github.com/bojanfriscic/wordpress-snippets#tweaks)
+  - [WP Query](https://github.com/bojanfriscic/wordpress-snippets#wp-query)
+  - [WPDB](https://github.com/bojanfriscic/wordpress-snippets#wpdb)
+  - [WooCommerce](https://github.com/bojanfriscic/wordpress-snippets#woocommerce)
+
+- [Trusted Plugins](https://github.com/bojanfriscic/wordpress-snippets#snippets)
+
+---
+
+## Links
 
 - [A List of all Default Gutenberg Blocks in WordPress 5.0](https://wpdevelopment.courses/a-list-of-all-default-gutenberg-blocks-in-wordpress-5-0/)
 - [Codex](http://codex.wordpress.org/)
 - [Dashicons](https://developer.wordpress.org/resource/dashicons/)
 - [Plugins](https://wordpress.org/plugins/)
 
-## SNIPPETS
+---
+
+## Snippets
 
 ### ACF
 
@@ -19,18 +58,22 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 - [Post Object](https://github.com/bojanfriscic/wordpress-snippets/blob/master/ACF/post_object.php)
 
 ### AJAX
+
 - [functions.php](https://github.com/bojanfriscic/wordpress-snippets/blob/master/AJAX/functions.php)
 - [weather.js](https://github.com/bojanfriscic/wordpress-snippets/blob/master/AJAX/weather.js)
 
 ### Assets
+
 - [Register Image Sizes](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-image-sizes.php)
 - [Register Script](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-script.php)
 - [Register Style](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-style.php)
 
 ### Blocks
+
 - [Display Reusable Block in Theme](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Blocks/display_reusable_block_in_theme.php)
 
 ### Cron
+
 - [Simple Cron Job](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Cron/add_simple_cron_job.php)
 - [Add Custom Scheduling](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Cron/add_custom_schedulling.php)
 - [Unschedule Cron Job](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Cron/unschedule_cron_job.php)
@@ -46,10 +89,12 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 - [Allow .svg Upload](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Files/allow-svg-upload.php)
 
 ### Images
+
 - [Enable post thumbnails](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Images/enable-post-thumbnails.php)
 - [Thumbnail outside of Loop](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Images/thumbnail-outside-of-loop.php)
 
 ### JS
+
 - [reCaptcha Dark Mode](https://github.com/bojanfriscic/wordpress-snippets/blob/master/JS/recaptcha-dark-mode.js)
 
 ### Navigation
@@ -73,6 +118,7 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 - [Change Excerpt More](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/change-excerpt-more.php)
 
 ### RSS
+
 - [Custom RSS Footer](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/custom-rss-footer.php)
 - [Delay Posts](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/delay-posts.php)
 - [Exclude Categories](https://github.com/bojanfriscic/wordpress-snippets/blob/master/RSS/exclude-categories.php)
@@ -102,17 +148,20 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 - [Shortcode with Attributes](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Shortcodes/shortcode-with-atts.php)
 - [Shortcode with Content](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Shortcodes/shortcode-with-content.php)
 
-### Social 
+### Social
 
 - [Sharing Button](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Social/sharing-button.php)
 
 ### SQL
+
 - [Truncate Comments](https://github.com/bojanfriscic/wordpress-snippets/blob/master/SQL/truncate-comments.sql)
 
 ### Templates
+
 - [Check if template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Templates/check-if-template.php)
 
 ### Terms
+
 - [Insert term](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Terms/insert-term.php)
 
 ### Tweaks
@@ -124,7 +173,12 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 - [Remove Editor from Template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-editor-from-templates.php)
 - [Remove Welcome Panel](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-welcome-panel.php)
 
+### Users
+
+- [Restrict Access to Post Type](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Users/restrict-access-to-post-type.php)
+
 ### WP Query
+
 - [Loop through Taxonomies](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WP%20Query/loop-through-taxonomies.php)
 - [Meta Query](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WP%20Query/meta-query.php)
 - [Order by Meta Value](https://github.com/bojanfriscic/wordpress-snippets/blob/master/WP%20Query/order-by-meta-value.php)
@@ -155,7 +209,9 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 - [Set default ordering](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/set-default-ordering.php)
 - [Unset ordering types](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/unset-ordering-types.php)
 
-## TRUSTED PLUGINS
+---
+
+## Trusted plugins
 
 - [Advanced Custom Fields PRO](https://www.advancedcustomfields.com/pro/)
 - [Classic Editor](https://wordpress.org/plugins/classic-editor/)
@@ -166,3 +222,5 @@ Snippets, links and resources for Wordpress & WooCommerce development.
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
 - [WPForms Lite](https://wordpress.org/plugins/wpforms-lite/)
 - [YOAST SEO](https://wordpress.org/plugins/wordpress-seo/)
+
+---
