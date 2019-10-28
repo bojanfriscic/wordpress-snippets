@@ -177,6 +177,7 @@ The list is structured into three sections - links on useful resources and artic
 
 - [Add User Role](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Users/add-user-role.php)
 - [Disable Dashboard Access](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Users/disable-dashboard-access.php)
+- [Log Out Link](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Users/log-out-link.php)
 - [Restrict Access to Post Type](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Users/restrict-access-to-post-type.php)
 
 ### WP Query
