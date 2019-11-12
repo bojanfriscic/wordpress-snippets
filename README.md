@@ -220,6 +220,7 @@ The list is structured into three sections - links on useful resources and artic
 - [Advanced Custom Fields PRO](https://www.advancedcustomfields.com/pro/)
 - [Classic Editor](https://wordpress.org/plugins/classic-editor/)
 - [Imsanity](https://wordpress.org/plugins/imsanity/)
+- [Post Type Switcher](https://hr.wordpress.org/plugins/post-type-switcher/)
 - [Under Construction](https://wordpress.org/plugins/under-construction-page/)
 - [WP Featherlight](https://wordpress.org/support/plugin/wp-featherlight/)
 - [WP Smart Preloader](https://wordpress.org/plugins/wp-smart-preloader/)
