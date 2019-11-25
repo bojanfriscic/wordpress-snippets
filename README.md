@@ -71,6 +71,7 @@ The list is structured into three sections - links on useful resources and artic
 ### Blocks
 
 - [Display Reusable Block in Theme](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Blocks/display_reusable_block_in_theme.php)
+- [Wrap Core Blocks in Div](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Blocks/wrap_core_blocks_in_div.php)
 
 ### Cron
 
