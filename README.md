@@ -171,6 +171,7 @@ The list is structured into three sections - links on useful resources and artic
 - [Custom Admin Footer](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/custom-admin-footer.php)
 - [Custom Dashboard Logo](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/custom-dashboard-logo.php)
 - [Remove Admin Bar](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-admin-bar.php)
+- [Remove Archive Type From Title](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-archive-types-from-title.php)
 - [Remove Editor from Template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-editor-from-templates.php)
 - [Remove Welcome Panel](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-welcome-panel.php)
 
