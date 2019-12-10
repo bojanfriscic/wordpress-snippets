@@ -89,6 +89,10 @@ The list is structured into three sections - links on useful resources and artic
 - [Allow .doc Upload](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Files/allow-doc-upload.php)
 - [Allow .svg Upload](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Files/allow-svg-upload.php)
 
+### Hooks
+
+- [Add and Call Custom Action](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Hooks/add_and_call_custom_action.php)
+
 ### Images
 
 - [Enable post thumbnails](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Images/enable-post-thumbnails.php)
