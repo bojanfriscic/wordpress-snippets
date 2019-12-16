@@ -121,6 +121,7 @@ The list is structured into three sections - links on useful resources and artic
 - [Change Excerpt Length](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/change-excerpt-length.php)
 - [Change Excerpt Length Depending on Post Type](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/excerpt-length-by-post-type.php)
 - [Change Excerpt More](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/change-excerpt-more.php)
+- [Exclude Category From Archive](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Posts/excelude-category-from-archive.php)
 
 ### RSS
 
