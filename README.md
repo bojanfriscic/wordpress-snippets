@@ -228,6 +228,7 @@ The list is structured into three sections - links on useful resources and artic
 - [Imsanity](https://wordpress.org/plugins/imsanity/)
 - [Post Type Switcher](https://hr.wordpress.org/plugins/post-type-switcher/)
 - [Under Construction](https://wordpress.org/plugins/under-construction-page/)
+- [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/)
 - [WP Featherlight](https://wordpress.org/support/plugin/wp-featherlight/)
 - [WP Smart Preloader](https://wordpress.org/plugins/wp-smart-preloader/)
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
