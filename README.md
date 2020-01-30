@@ -117,6 +117,10 @@ The list is structured into three sections - links on useful resources and artic
 
 - [Add Options Page](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Options%20Pages/add-options-page.php)
 
+### Permalinks
+
+- [Change Permalinks Base](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Permalinks/change_permalinks_base.php)
+
 ### Plugins
 
 - [Check if WP is installed](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Plugins/check-if-wp-installed.php)
