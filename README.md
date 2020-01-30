@@ -215,6 +215,7 @@ The list is structured into three sections - links on useful resources and artic
 - [Change number of products per row](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/change-number-of-products-per-row.php)
 - [Change related product count](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/change-related-product-count.php)
 - [Enable lightbox](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/enable-lightbox.php)
+- [GDPR Checkout](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/gdpr_checkout.php)
 - [Get category image](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-category-image.php)
 - [Get product categories](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-product-cats.php)
 - [Get product featured image](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/get-product-featured-image.php)
