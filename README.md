@@ -191,6 +191,7 @@ The list is structured into three sections - links on useful resources and artic
 - [Remove Archive Type From Title](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-archive-types-from-title.php)
 - [Remove Editor from Template](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-editor-from-templates.php)
 - [Remove Welcome Panel](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/remove-welcome-panel.php)
+- [Track Post View Count](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Tweaks/track-post-view-count.php)
 
 ### Users
 
