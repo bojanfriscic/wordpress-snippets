@@ -92,6 +92,7 @@ The list is structured into three sections - links on useful resources and artic
 ### HTACCESS
 
 - [Disable Directory Listing](https://github.com/bojanfriscic/wordpress-snippets/blob/master/HTACCESS/disable-directory-listing.txt)
+- [Full Path Disclosure](https://github.com/bojanfriscic/wordpress-snippets/blob/master/HTACCESS/full-path-disclosure.txt)
 
 ### Hooks
 
