@@ -67,6 +67,7 @@ The list is structured into three sections - links on useful resources and artic
 - [Register Image Sizes](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-image-sizes.php)
 - [Register Script](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-script.php)
 - [Register Style](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-style.php)
+- [Register Style in Plugin](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Assets/register-style-in-plugin.php)
 
 ### Blocks
 
